@@ -1,7 +1,7 @@
-import tkinter
-import json
-import PIL.Image
-import tkinter.scrolledtext as scrolltxt
+tkinter
+json
+PIL.Image
+tkinter.scrolledtext as scrolltxt
 from PIL import ImageTk
 from user import User
 from data_parser import DataParsed
