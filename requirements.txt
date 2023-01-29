@@ -2,8 +2,5 @@ tkinter
 json
 PIL.Image
 tkinter.scrolledtext as scrolltxt
-from PIL import ImageTk
-from user import User
-from data_parser import DataParsed
-from tkinter import *
-from html2image import Html2Image
+PIL
+Html2Image
