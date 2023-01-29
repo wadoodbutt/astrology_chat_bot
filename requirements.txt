@@ -1,6 +1,0 @@
-tkinter
-json
-PIL.Image
-tkinter.scrolledtext as scrolltxt
-PIL
-Html2Image
